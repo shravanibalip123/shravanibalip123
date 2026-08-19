@@ -14,7 +14,7 @@ Completed | Final Year Group Project
 
 QueryFlow is a web-based database management application designed to simplify database operations through a user-friendly interface. It allows users to create databases, manage tables, and perform operations such as insert, update, delete, and alter without manually writing SQL queries. The project was developed using Flutter for the frontend, API-based communication for the backend, and Firebase for database management.
 
-🔗 [QueryFlow: Database Management Project](https://github.com/anushkabahirat/QueryFlow_Final_Year_Project)
+ [QueryFlow: Database Management Project](https://github.com/anushkabahirat/QueryFlow_Final_Year_Project)
 
 🍎 Apple Quality Prediction
 
@@ -29,6 +29,8 @@ Apple Quality Prediction is a Machine Learning project developed using Python, P
 Data Science Intern — MITU Skillologies, Pune
 
 Completed internship focused on Python, Data Science, and Machine Learning, with hands-on experience in developing and working with Machine Learning projects.
+
+[ View Internship Repository](https://github.com/shravanibalip123/Data-science-internship-2025)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
