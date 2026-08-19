@@ -1,9 +1,34 @@
 <h1 align="center">Hi 👋, I'm Shravani Balip</h1>
-<h3 align="center">🎓 IT Diploma Student | Passionate about Programming & Data Science | Intern @ MITU Skillologies, Pune</h3>
+<h3 align="center">🎓 Diploma in Information Technology | Python | Data Science | Machine Learning</h3>
+<p>I have completed my Diploma in Information Technology and a Data Science Internship at MITU Skillologies, Pune.
+
+I enjoy building projects using Python, Machine Learning, Data Science, and software development. I am currently continuing my engineering journey and expanding my technical skills.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shravanibalip123&label=Profile%20views&color=0e75b6&style=flat" alt="shravanibalip123" /> </p>
 
-- 🔭 I’m currently working on [Apple Quality Prediction a Machine Learning Project](https://github.com/shravanibalip123/Data-science-internship-2025/blob/main/Machine%20Learning%20Project/apple_prediction_grp10.ipynb)
+Projects:
+
+🗄️ QueryFlow: Database Management Application
+
+Completed | Final Year Group Project
+
+QueryFlow is a web-based database management application designed to simplify database operations through a user-friendly interface. It allows users to create databases, manage tables, and perform operations such as insert, update, delete, and alter without manually writing SQL queries. The project was developed using Flutter for the frontend, API-based communication for the backend, and Firebase for database management.
+
+🔗 [QueryFlow: Database Management Project](https://github.com/anushkabahirat/QueryFlow_Final_Year_Project)
+
+🍎 Apple Quality Prediction
+
+Completed | Machine Learning Project
+
+Apple Quality Prediction is a Machine Learning project developed using Python, Pandas, Scikit-learn, Matplotlib, Tkinter, and Jupyter Notebook to predict apple quality based on different input features.
+
+[Apple Quality Prediction a Machine Learning Project](https://github.com/shravanibalip123/Data-science-internship-2025/blob/main/Machine%20Learning%20Project/apple_prediction_grp10.ipynb)
+
+💼 Internship
+
+Data Science Intern — MITU Skillologies, Pune
+
+Completed internship focused on Python, Data Science, and Machine Learning, with hands-on experience in developing and working with Machine Learning projects.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
