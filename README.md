@@ -6,9 +6,9 @@ I enjoy building projects using Python, Machine Learning, Data Science, and soft
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shravanibalip123&label=Profile%20views&color=0e75b6&style=flat" alt="shravanibalip123" /> </p>
 
-Projects:
+<h3>🚀 Projects</h3>
 
-🗄️ QueryFlow: Database Management Application
+<h4>🗄️ QueryFlow: Database Management Application</h4>
 
 Completed | Final Year Group Project
 
@@ -16,7 +16,7 @@ QueryFlow is a web-based database management application designed to simplify da
 
  [QueryFlow: Database Management Project](https://github.com/anushkabahirat/QueryFlow_Final_Year_Project)
 
-🍎 Apple Quality Prediction
+<h4>🍎 Apple Quality Prediction</h4>
 
 Completed | Machine Learning Project
 
@@ -24,7 +24,7 @@ Apple Quality Prediction is a Machine Learning project developed using Python, P
 
 [Apple Quality Prediction a Machine Learning Project](https://github.com/shravanibalip123/Data-science-internship-2025/blob/main/Machine%20Learning%20Project/apple_prediction_grp10.ipynb)
 
-💼 Internship
+<h4>💼 Internship</h4>
 
 Data Science Intern — MITU Skillologies, Pune
 
